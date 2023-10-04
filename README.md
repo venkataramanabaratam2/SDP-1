@@ -1,5 +1,10 @@
-# SDP-1 
+# SDP-1 (Skill Development Project)
 ## Event Management System
+Technologies incorporated in this project : MERN (MongoDB, Express, React, Node-js)
+#### MongoDB : Database (Storage) 
+#### Express : framework for Node.js 
+#### React : Front-End (User Interface)
+#### Node-js : Backend Connectivity (handling server side logic)
 
 ### Landingpage
 ![screencapture-localhost-3000-2023-10-04-16_58_37](https://github.com/venkataramanabaratam2/SDP-1/assets/136094361/d2ccac74-21b4-4c06-8332-d9b2f6654e80)
