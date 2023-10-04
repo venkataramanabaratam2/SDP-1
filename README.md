@@ -7,10 +7,10 @@ Technologies incorporated in this project : MERN (MongoDB, Express, React, Node-
 #### Node-js : Backend Connectivity (handling server side logic)
 
 AS a part of the skill development projects we have been assigned to a management system, which is the Event Management System. For generating this project we have approached multiple aspects and gathered the appropriate information. This includes field surveys, interactions with Event managers, prototypes, and many things.
-Our Team :
-[vachaspathi6](https://github.com/vachaspathi6)
-[Venkataramana Baratam](https://github.com/venkataramanabaratam2)
-[Manoj Teja Patcha](https://github.com/ManojTejaPatcha)
+## Our Team :
+### [Vachaspathi Gnaneswar Garlapati](https://github.com/vachaspathi6)
+### [Venkataramana Baratam](https://github.com/venkataramanabaratam2)
+### [Manoj Teja Patcha](https://github.com/ManojTejaPatcha)
 
 ## Steps to start the project
 To view our project there are some important things to do, you have to install node_modules by using npm install node_modules in both evm and server then after that you have to start frontend(evm) with "npm start" command in the terminal and then you have to change mongoDBurl in the server side code with your own url and start server with "node app.js" (as what you mention in the package.json).
