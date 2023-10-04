@@ -12,6 +12,9 @@ As a part of the skill development projects we have been assigned to a managemen
 ### [Venkataramana Baratam](https://github.com/venkataramanabaratam2)
 ### [Manoj Teja Patcha](https://github.com/ManojTejaPatcha)
 
+## Deployment Link:
+### https://jellow-events.netlify.app
+
 ## Steps to start the project
 To view our project there are some important things to do, you have to install node_modules by using "npm install node_modules" in both evm and server then after that you have to start frontend(evm) with "npm start" command in the terminal and then you have to change mongoDBurl in the server side code with your own url and start server with "node app.js" (as what you mention in the package.json).
 
